@@ -1,4 +1,5 @@
-![3генрир](https://github.com/user-attachments/assets/27cd35c8-f625-4f08-8acf-db4dc0e4e3be)
+![44генрир](https://github.com/user-attachments/assets/8f891b14-2b94-4ca0-a0ce-1c701bcbc531)
+
 
 # 📚 Генри - Telegram бот для рекомендаций книг
 
